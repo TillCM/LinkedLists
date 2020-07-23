@@ -1,0 +1,2 @@
+C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\BasicLinkedList (Package).wapproj;x86
+C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\BasicLinkedList.csproj;x86

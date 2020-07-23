@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xS2NTpURkXoxrd7FUDbOaAUc17qq6d8yUwXkKgy+DeFN+9bAVUb8EYXa4PHu3in1ZkNQHsdQGAqPGE4E4u7aJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2020\\Guru Dev\\PROG7312\\LU1\\Projects\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.windows.cswinrt\\0.1.0-prerelease.200629.3\\microsoft.windows.cswinrt.0.1.0-prerelease.200629.3.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.windows.sdk.net\\10.0.18362.6-preview\\microsoft.windows.sdk.net.10.0.18362.6-preview.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.winui\\3.0.0-preview2.200713.0\\microsoft.winui.3.0.0-preview2.200713.0.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.0-preview.6.20308.1\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.0-preview.6.20308.1.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.0-preview.6.20308.1\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.0-preview.6.20308.1.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.0-preview.6.20305.6\\microsoft.netcore.app.runtime.win-x64.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.0-preview.6.20312.15\\microsoft.aspnetcore.app.runtime.win-x64.5.0.0-preview.6.20312.15.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.0-preview.6.20305.6\\microsoft.netcore.app.runtime.win-x86.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.0-preview.6.20312.15\\microsoft.aspnetcore.app.runtime.win-x86.5.0.0-preview.6.20312.15.nupkg.sha512"
+  ],
+  "logs": []
+}
