@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xS2NTpURkXoxrd7FUDbOaAUc17qq6d8yUwXkKgy+DeFN+9bAVUb8EYXa4PHu3in1ZkNQHsdQGAqPGE4E4u7aJQ==",
+  "dgSpecHash": "3cGFeoG4c2AQjZqXPKJf58Op8NZ8+ZuWD3eUQgmIu6VhPrVv4fSrT7kkcgHufkmhNjoahTphPS+cSnz6Gnp1aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2020\\Guru Dev\\PROG7312\\LU1\\Projects\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
+  "projectFilePath": "C:\\Users\\ctill\\Documents\\GuruProjects\\LinkedLists\\SinglyLinkedLists\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ctill\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512",
     "C:\\Users\\ctill\\.nuget\\packages\\microsoft.windows.cswinrt\\0.1.0-prerelease.200629.3\\microsoft.windows.cswinrt.0.1.0-prerelease.200629.3.nupkg.sha512",

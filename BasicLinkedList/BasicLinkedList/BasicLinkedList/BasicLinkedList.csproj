@@ -33,4 +33,9 @@
     </Page>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Queue\" />
+    <Folder Include="Stack\" />
+  </ItemGroup>
+
 </Project>

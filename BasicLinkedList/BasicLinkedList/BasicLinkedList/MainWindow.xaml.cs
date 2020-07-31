@@ -31,6 +31,7 @@ namespace BasicLinkedList
         String welcomeMessage = "Welcome to the game   ";
         GameLinkedList gameStory = new GameLinkedList();
         GameNarrative  bjornsStory = new GameNarrative();
+        DList doubleListStory = new DList();
         int count;
         int counter = 0;
 
@@ -47,6 +48,13 @@ namespace BasicLinkedList
             gameStory.append(bjornsStory.bjornReasons);
             gameStory.append(bjornsStory.bjornFights);
             count = gameStory.Count();
+
+            doubleListStory.append(bjornsStory.intro);
+            doubleListStory.append(bjornsStory.bjorn);
+            doubleListStory.append(bjornsStory.bjornStory);
+            doubleListStory.append(bjornsStory.bjornInsideStory);
+            doubleListStory.append(bjornsStory.bjornReasons);
+            doubleListStory.append(bjornsStory.bjornFights);
         }
 
         private async void myButton_Click(object sender, RoutedEventArgs e)
@@ -85,9 +93,27 @@ namespace BasicLinkedList
             
         }
 
-            
+        private void previousButton_Click(object sender, RoutedEventArgs e)
+        {
+            List<string> previousValues = new List<string>();
+            previousValues = doubleListStory.showPrevious();
 
-           
+            if (counter < previousValues.Count())
+            {
+                // Windows.UI.Popups.MessageDialog listValues = new Windows.UI.Popups.MessageDialog(count.ToString() + " " + storyList[counter]);
+                txtGameNarative.Text = previousValues[counter];
+                counter++;
+                // await listValues.ShowAsync();
+
+                TextBox textBox = new TextBox();
+
+
+            }
+
+        }
+
+
+
+        }
+
     }
-
-}

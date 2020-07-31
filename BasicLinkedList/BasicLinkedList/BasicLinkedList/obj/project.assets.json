@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2020\\Guru Dev\\PROG7312\\LU1\\Projects\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\ctill\\Documents\\GuruProjects\\LinkedLists\\SinglyLinkedLists\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
       "projectName": "BasicLinkedList",
-      "projectPath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2020\\Guru Dev\\PROG7312\\LU1\\Projects\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
+      "projectPath": "C:\\Users\\ctill\\Documents\\GuruProjects\\LinkedLists\\SinglyLinkedLists\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
       "packagesPath": "C:\\Users\\ctill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2020\\Guru Dev\\PROG7312\\LU1\\Projects\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\ctill\\Documents\\GuruProjects\\LinkedLists\\SinglyLinkedLists\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

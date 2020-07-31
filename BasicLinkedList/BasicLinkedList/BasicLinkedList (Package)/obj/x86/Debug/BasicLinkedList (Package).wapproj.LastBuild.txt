@@ -1,20 +1,20 @@
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\App.xbf
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\MainWindow.xbf
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Elves.JPG
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\SplashScreen.scale-200.png
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\LockScreenLogo.scale-200.png
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Square150x150Logo.scale-200.png
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Square44x44Logo.scale-200.png
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\StoreLogo.png
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\App.xbf
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\MainWindow.xbf
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Elves.JPG
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\SplashScreen.scale-200.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\StoreLogo.png
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\Images\Wide310x150Logo.scale-200.png
 C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\bin\x86\Debug\resources.pri
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\Msix\BasicLinkedList.deps.json
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.exe
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.dll
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList.runtimeconfig.json
-C:\Users\ctill\OneDrive - ADvTECH Ltd\2020\Guru Dev\PROG7312\LU1\Projects\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.pdb
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\bin\x86\Debug\resources.pri
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\Msix\BasicLinkedList.deps.json
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.exe
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.dll
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList.runtimeconfig.json
+C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.pdb
 C:\Users\ctill\.nuget\packages\microsoft.netcore.app.runtime.win-x86\5.0.0-preview.6.20305.6\runtimes\win-x86\lib\net5.0\Microsoft.CSharp.dll
 C:\Users\ctill\.nuget\packages\microsoft.netcore.app.runtime.win-x86\5.0.0-preview.6.20305.6\runtimes\win-x86\lib\net5.0\Microsoft.VisualBasic.Core.dll
 C:\Users\ctill\.nuget\packages\microsoft.netcore.app.runtime.win-x86\5.0.0-preview.6.20305.6\runtimes\win-x86\lib\net5.0\Microsoft.VisualBasic.dll

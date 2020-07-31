@@ -14,6 +14,7 @@ namespace BasicLinkedList.Node
 
 
       public CustomNode Next;
+      public CustomNode Previous;
       public string data;
 
         public CustomNode()
