@@ -31,17 +31,17 @@
     <AppXManifest Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList %28Package%29\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-07-29T03:54:58.827</Modified>
+      <Modified>2020-08-04T07:57:03.923</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\App.xbf">
       <PackagePath>BasicLinkedList\App.xbf</PackagePath>
-      <Modified>2020-07-29T03:54:27.946</Modified>
+      <Modified>2020-08-04T07:56:51.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\MainWindow.xbf">
       <PackagePath>BasicLinkedList\MainWindow.xbf</PackagePath>
-      <Modified>2020-07-29T03:54:27.952</Modified>
+      <Modified>2020-08-04T07:56:51.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList %28Package%29\Images\Elves.JPG">
       <PackagePath>Images\Elves.JPG</PackagePath>
@@ -87,19 +87,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList %28Package%29\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-07-27T14:50:05.642</Modified>
+      <Modified>2020-07-31T11:21:50.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\Msix\BasicLinkedList.deps.json">
       <PackagePath>BasicLinkedList\BasicLinkedList.deps.json</PackagePath>
-      <Modified>2020-07-27T14:50:01.028</Modified>
+      <Modified>2020-07-31T11:21:45.841</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.exe">
       <PackagePath>BasicLinkedList\BasicLinkedList.exe</PackagePath>
-      <Modified>2020-07-29T03:54:28.913</Modified>
+      <Modified>2020-08-04T07:56:52.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.dll">
       <PackagePath>BasicLinkedList\BasicLinkedList.dll</PackagePath>
-      <Modified>2020-07-29T03:54:28.721</Modified>
+      <Modified>2020-08-04T07:56:52.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\LinkedLists\SinglyLinkedLists\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList.runtimeconfig.json">
       <PackagePath>BasicLinkedList\BasicLinkedList.runtimeconfig.json</PackagePath>

@@ -31,6 +31,7 @@ namespace BasicLinkedList
         String welcomeMessage = "Welcome to the game   ";
         GameLinkedList gameStory = new GameLinkedList();
         GameNarrative  bjornsStory = new GameNarrative();
+        CircularSinlyLinkedList csList = new CircularSinlyLinkedList();
         DList doubleListStory = new DList();
         int count;
         int counter = 0;
@@ -55,6 +56,15 @@ namespace BasicLinkedList
             doubleListStory.append(bjornsStory.bjornInsideStory);
             doubleListStory.append(bjornsStory.bjornReasons);
             doubleListStory.append(bjornsStory.bjornFights);
+            doubleListStory.insert("The story of bjorn", 2);
+
+            csList.append(bjornsStory.intro);
+            csList.append(bjornsStory.bjorn);
+            csList.append(bjornsStory.bjornStory);
+            csList.append(bjornsStory.bjornInsideStory);
+            csList.append(bjornsStory.bjornReasons);
+
+           
         }
 
         private async void myButton_Click(object sender, RoutedEventArgs e)
